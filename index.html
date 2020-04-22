@@ -9,7 +9,8 @@
         href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900italic,900'
         rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="./animation.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" href="./animate.css">
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="./responsive.css">
 </head>
@@ -46,12 +47,12 @@
     <div class="header-primary">
         <div class="header-container">
             <div class="header-title">
-                <h1>We Are Team J-16</h1>
+                <h1 class="animated fadeInLeft">We Are Team J-16</h1>
             </div>
             <div class="header-content">
-                <p>We are participants of the Online Academy Program (OA)</p>
+                <p class="animated fadeInLeft">We are participants of the Online Academy Program (OA)</p>
             </div>
-            <a href="#our-team">
+            <a href="#our-team" class="animated fadeInLeft">
                 <button type="button" class="header-btn">
                     <span>Code With Us</span>
                 </button>
@@ -59,9 +60,15 @@
         </div>
     </div>
     <div class="team-container">
-        
+
     </div>
     <footer></footer>
+
+    <!-- Script Optional -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </body>
 
 </html>
