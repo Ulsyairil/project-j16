@@ -103,7 +103,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: 210px 30px;
-  padding-right: 500px;
+  padding-right: 600px;
 }
 
 .header-title h1 {
@@ -184,7 +184,11 @@ body {
 
 .fotomember {
   border-radius: 50%;
-  border: 5px solid #4d47db;
+  filter: grayscale(100%);
+}
+
+.fotomember:hover {
+  filter: none;
 }
 
 .iconsosmed {
