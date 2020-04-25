@@ -184,11 +184,6 @@ body {
 
 .fotomember {
   border-radius: 50%;
-  filter: grayscale(100%);
-}
-
-.fotomember:hover {
-  filter: none;
 }
 
 .iconsosmed {
@@ -198,6 +193,228 @@ body {
 
 .iconsosmed:hover {
   opacity: 1;
+}
+
+/* Skill */
+.skill-container .heading {
+  text-align: center;
+}
+
+.skills-wrapper {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill {
+  flex: 1 0 18%;
+  margin: 5px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.skill-content img {
+  border-radius: 50%;
+}
+
+.skill-title {
+  text-align: center;
+  margin: 10px 0;
+  padding-bottom: 10px;
+  font-weight: bold;
+  border-bottom: 1px solid #4d47db;
+}
+
+.html-skill {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 5px;
+}
+
+.html-skill .title {
+  margin: 10px 0;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.html-skill .score span {
+  font-size: 12px;
+}
+
+.css-skill {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 5px;
+}
+
+.css-skill .title {
+  margin: 10px 0;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.css-skill .score span {
+  font-size: 12px;
+}
+
+.js-skill {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 5px;
+}
+
+.js-skill .title {
+  margin: 10px 0;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.js-skill .score span {
+  font-size: 12px;
+}
+
+/* Ulsyairil Scores */
+.html-skill .rio-score .bar {
+  width: 100%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.css-skill .rio-score .bar {
+  width: 76%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.js-skill .rio-score .bar {
+  width: 100%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+/* Wahyu Scores */
+.html-skill .wahyu-score .bar {
+  width: 100%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.css-skill .wahyu-score .bar {
+  width: 76%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.js-skill .wahyu-score .bar {
+  width: 76%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+/* Yoga Scores */
+.html-skill .yoga-score .bar {
+  width: 100%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.css-skill .yoga-score .bar {
+  width: 76%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.js-skill .yoga-score .bar {
+  width: 76%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+/* Uji Scores */
+.html-skill .uji-score .bar {
+  width: 100%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.css-skill .uji-score .bar {
+  width: 76%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.js-skill .uji-score .bar {
+  width: 76%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+/* Virdi Scores */
+.html-skill .virdi-score .bar {
+  width: 100%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.css-skill .virdi-score .bar {
+  width: 76%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
+}
+
+.js-skill .virdi-score .bar {
+  width: 76%;
+  height: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #4d47db;
+  margin: 0px;
 }
 
 /* Footer */
