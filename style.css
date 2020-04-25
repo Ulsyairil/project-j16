@@ -288,7 +288,7 @@ body {
 }
 
 .css-skill .rio-score .bar {
-  width: 76%;
+  width: 100%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -297,7 +297,7 @@ body {
 }
 
 .js-skill .rio-score .bar {
-  width: 100%;
+  width: 74%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -307,7 +307,7 @@ body {
 
 /* Wahyu Scores */
 .html-skill .wahyu-score .bar {
-  width: 100%;
+  width: 90%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -316,7 +316,7 @@ body {
 }
 
 .css-skill .wahyu-score .bar {
-  width: 76%;
+  width: 60%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -325,7 +325,7 @@ body {
 }
 
 .js-skill .wahyu-score .bar {
-  width: 76%;
+  width: 0%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -335,7 +335,7 @@ body {
 
 /* Yoga Scores */
 .html-skill .yoga-score .bar {
-  width: 100%;
+  width: 70%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -344,7 +344,7 @@ body {
 }
 
 .css-skill .yoga-score .bar {
-  width: 76%;
+  width: 70%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -353,7 +353,7 @@ body {
 }
 
 .js-skill .yoga-score .bar {
-  width: 76%;
+  width: 40%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -372,7 +372,7 @@ body {
 }
 
 .css-skill .uji-score .bar {
-  width: 76%;
+  width: 100%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -381,7 +381,7 @@ body {
 }
 
 .js-skill .uji-score .bar {
-  width: 76%;
+  width: 0%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -391,7 +391,7 @@ body {
 
 /* Virdi Scores */
 .html-skill .virdi-score .bar {
-  width: 100%;
+  width: 70%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -400,7 +400,7 @@ body {
 }
 
 .css-skill .virdi-score .bar {
-  width: 76%;
+  width: 70%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
@@ -409,7 +409,7 @@ body {
 }
 
 .js-skill .virdi-score .bar {
-  width: 76%;
+  width: 40%;
   height: 20px;
   color: #ffffff;
   border-radius: 5px;
